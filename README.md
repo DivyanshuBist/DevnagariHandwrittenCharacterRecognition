@@ -1,4 +1,7 @@
 # Devnagari Handwritten Character Recognition
+Dataset:https://web.archive.org/web/20160105230017/http://cvresearchnepal.com/wordpress/dhcd/
+
+https://www.kaggle.com/rishianand/devanagari-character-set
 
 Dataset contains 78,200 training images  and 13,800 test images corresponding to 46 characters, consonants "ka" to "gya", and the digits 0 to 9. The vowels are missing. .The Dataset has been reduced to about 700 images per class for training.Actual character is centered within 28 by 28 pixel, padding of 2 pixel is added on all four sides of actual character.CNN is used for preparing model.
 Some sample images 
